@@ -6,7 +6,10 @@ A **modern, premium-quality, full-stack MERN web application** for team task man
 
 ## 🌟 Live Preview
 
+👉 [View Live Project](https://work-verse.vercel.app)
+
 > Deploy your own instance using the instructions below.
+
 
 ---
 
